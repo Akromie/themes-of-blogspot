@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Templates to blogger platform ready to be used
 
 You can use the [editor on GitHub](https://github.com/LaPrInMedi-Studio/themes-of-blogspot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
