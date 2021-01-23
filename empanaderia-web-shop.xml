@@ -43,7 +43,7 @@
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
 <!--<meta content='10; url=https://yamilesquivel.github.io/index.html' http-equiv='refresh'/> muy copado-->
 <meta content='empanadas, riquisimas , domicilio , cerca ,comida ' name='keywords'/>
-<meta content='empanadas, si tenes hambre y queres una comida rapida las empanadas pueden ser la mejor opcion :) ' name='description'/>
+<meta content='si el hambre ataca ,empanadas la mejor comida al rescate ' name='description'/>
 <link href='https://yamilesquivel.github.io' rel='yamilesquivel'/>
 </b:if>
 <meta content='index' name='robots'/>
@@ -54,7 +54,7 @@
 
 <meta content='IE=9; IE=8; IE=7; IE=EDGE; chrome=1' http-equiv='X-UA-Compatible'/>
 <meta content='true' name='HandheldFriendly'/>
-
+<meta property="og:image" content="https://1.bp.blogspot.com/-fEVooCqkj-Q/YAeANC3finI/AAAAAAAAUwk/o0auKok6iJ4WlY1aprGZZvY-QoN9zkdOACLcBGAsYHQ/s1024/slider1-empanada.jpg"/>
 <meta content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1' name='viewport'/>
 
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&amp;display=swap' rel='stylesheet'/> <!--fuentes tipografia -->
@@ -1314,7 +1314,7 @@ $(document).ready(function() { $("#slider1").sliderResponsive({// Using default 
 
 <!-- Social Profile Icons -->
 
-Bienvenido a la Tienda virtual de la Empanaderia !
+
   
 </div>
 
@@ -1324,9 +1324,7 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 
 <li class='bhider'><a href=''><i class='fa fa-map-marker'/> Ubicacion</a></li>   
 
-<li class='hider'><a href=''><i class='fa fa-headphones'/> Consultas</a></li>   
-
-<li><a href=''><i class='fa fa-mobile'/> Descargar</a></li>   
+<li class='bhider'><a href=''><i class='fa fa-headphones'/> Consultas</a></li>   
 
 </ul>
 
@@ -1501,9 +1499,15 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 -->
 <li><a href='https://wa.me/5491164835915/?text=Hola! te contacto por las empanadas'>Contacto</a></li>
 
-<li><a class='animate__animated animate__rollIn'>Prueba de animate</a></li>
+<li><a class='animate__animated animate__zoomIn'>Recetas</a></li>
 
-<li class='animate__animated animate__rollIn animate__faster'><a>Example</a></li>
+<li class='animate__animated animate__zoomIn'><a>Consejos</a></li>
+  
+<li class='animate__animated animate__zoomIn'><a>Tipos de Empanadas</a></li>
+
+<li class='animate__animated animate__zoomIn'><a>Lugares Recomendados</a></li>
+
+
 </ul>
 </nav>
 
@@ -1517,15 +1521,15 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 
 <div class='slider' id='slider1'>
 
-<div><a href='/'><img src='https://www.infobae.com/new-resizer/Bh49z2i0tuhmoa5vYtuzb9mtuYI=/1024x512/filters:format(jpg):quality(85)/s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/09/07175639/semana-empanadas-4.jpg'/></a></div>
+<div><a href='/'><img src='https://1.bp.blogspot.com/-fEVooCqkj-Q/YAeANC3finI/AAAAAAAAUwk/o0auKok6iJ4WlY1aprGZZvY-QoN9zkdOACLcBGAsYHQ/s1024/slider1-empanada.jpg'/></a></div>
 
-<div><a href='/'><img src='https://3.bp.blogspot.com/-567MuwbssoA/XqryPNo3TRI/AAAAAAAAAC0/3pXHOX0YXsQrOGzF83U3NylLfQhiVz59ACLcBGAsYHQ/s1600/slider2.jpg'/></a></div>
+<div><a href='/'><img src='https://1.bp.blogspot.com/-957fqqwZr28/YAeAOwixTUI/AAAAAAAAUwo/uNKvaroz33Y7Rit8NRkLxH9T5RChzwUjACLcBGAsYHQ/s1170/slider2-empanadas.jpg'/></a></div>
 
-<div><a href='/'><img src='https://2.bp.blogspot.com/-hs0B0U8DN6c/XqryPjYtsRI/AAAAAAAAAC4/5S-fmUGrOLkfIODMEQf-YPnk7ONxkcWBwCLcBGAsYHQ/s1600/slider3.jpg'/></a></div>
+<div><a href='/'><img src='https://1.bp.blogspot.com/-HIEUQqeKeJo/YAeAO7e4lsI/AAAAAAAAUws/P5OPQFifgcsEapRevLvYwDktUswfTJfHQCLcBGAsYHQ/s1170/slider3-empanadas.jpg'/></a></div>
 
-<div><a href='/'><img src='https://2.bp.blogspot.com/-hDA_sao7SCA/XqryRGSxL2I/AAAAAAAAADA/vNVFali1LxELrwmSqTqqQOCqzol2s7WuACLcBGAsYHQ/s1600/slider5.jpg'/></a></div>
+<div><a href='/'><img src='https://1.bp.blogspot.com/-fEVooCqkj-Q/YAeANC3finI/AAAAAAAAUwk/o0auKok6iJ4WlY1aprGZZvY-QoN9zkdOACLcBGAsYHQ/s1024/slider1-empanada.jpg'/></a></div>
 
-<div><a href='/'><img src='https://3.bp.blogspot.com/--4VmFDfN74M/XqryQceFnZI/AAAAAAAAAC8/uLGPLBPbEdE0Zw9LyNWz0j4pfIaznC1MgCLcBGAsYHQ/s1600/slider4.jpg'/></a></div>
+<div><a href='/'><img src='https://1.bp.blogspot.com/-HIEUQqeKeJo/YAeAO7e4lsI/AAAAAAAAUws/P5OPQFifgcsEapRevLvYwDktUswfTJfHQCLcBGAsYHQ/s1170/slider3-empanadas.jpg'/></a></div>
 
     <!-- The Arrows -->
 <i class='arrows left' style=''><svg viewBox='0 0 100 100'><path d='M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z'/></svg></i>
@@ -1539,9 +1543,9 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 <b:section class='banner3' id='Ad-1' maxwidgets='1' name='Ad left (side)' showaddelement='yes'>
   <b:widget id='Image3' locked='false' title='Ad banner 1' type='Image' visible='true'>
     <b:widget-settings>
-      <b:widget-setting name='displayUrl'>https://1.bp.blogspot.com/-upFxPuToXrA/Xo3Lx9w16kI/AAAAAAAABT8/nXg7c-HSy14ZAN6lNjZoZ7nWzahRXpeTgCLcBGAsYHQ/s1600/ad1.png</b:widget-setting>
+      <b:widget-setting name='displayUrl'>http://4.bp.blogspot.com/-0q10OElcMFA/YAeDraEV8cI/AAAAAAAAUxc/vdxoEWp7a9Q1EgdzOCsG0W2inmz-LibeACK4BGAYYCw/s1600/images%2Bq%253Dtbn%2Bad3.png</b:widget-setting>
       <b:widget-setting name='displayHeight'>190</b:widget-setting>
-      <b:widget-setting name='sectionWidth'>170</b:widget-setting>
+      <b:widget-setting name='sectionWidth'>241</b:widget-setting>
       <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
       <b:widget-setting name='displayWidth'>365</b:widget-setting>
       <b:widget-setting name='link'>/</b:widget-setting>
@@ -1570,11 +1574,11 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 <b:section class='banner3' id='Ad-2' maxwidgets='1' name='Ad bottom' showaddelement='yes'>
   <b:widget id='Image4' locked='false' title='Ad banner 2' type='Image' visible='true'>
     <b:widget-settings>
-      <b:widget-setting name='displayUrl'>http://2.bp.blogspot.com/-QKJRkPe32rw/YAZqhJH1vcI/AAAAAAAAUvs/v_nGI0-raHAsHtyTzZ4LUqutlCvyQly6wCK4BGAYYCw/s1600/kisspng-empanada-panzerotti-calzone-pasty-jamaican-patty-panzerotti-5b4c200280e2b2.7708762915317155865279.png</b:widget-setting>
-      <b:widget-setting name='displayHeight'>200</b:widget-setting>
-      <b:widget-setting name='sectionWidth'>299</b:widget-setting>
+      <b:widget-setting name='displayUrl'>http://2.bp.blogspot.com/-9e0EPAXeNcQ/YAeCQlCe1iI/AAAAAAAAUxE/1B-zDvC1XkcQiBQP22zLqQuOKi6ToU9jQCK4BGAYYCw/s1600/kisspng-empanada-panzerotti-calzone-pasty-jamaican-patty-panzerotti-5b4c200280e2b2.7708762915317155865279.png</b:widget-setting>
+      <b:widget-setting name='displayHeight'>190</b:widget-setting>
+      <b:widget-setting name='sectionWidth'>241</b:widget-setting>
       <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
-      <b:widget-setting name='displayWidth'>360</b:widget-setting>
+      <b:widget-setting name='displayWidth'>365</b:widget-setting>
       <b:widget-setting name='link'>/</b:widget-setting>
       <b:widget-setting name='caption'>banner 2</b:widget-setting>
     </b:widget-settings>
@@ -1601,11 +1605,11 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 <b:section class='banner3' id='Ad-3' maxwidgets='1' name='Ad right (side)' showaddelement='yes'>
   <b:widget id='Image5' locked='false' title='Ad banner 3' type='Image' visible='true'>
     <b:widget-settings>
-      <b:widget-setting name='displayUrl'>http://3.bp.blogspot.com/-FVn96dWqG0Q/YAZpjmUYahI/AAAAAAAAUvg/vO4mh20Xmq0inuS6R8audJqRC0JnJ_3ZgCK4BGAYYCw/s1600/images%2Bq%253Dtbn%2BANd9GcQlRjj0iGZy7i1oOcj7wxnCAf7turhCCRfe3w%2526usqp%253DCAU.png</b:widget-setting>
-      <b:widget-setting name='displayHeight'>142</b:widget-setting>
-      <b:widget-setting name='sectionWidth'>213</b:widget-setting>
+      <b:widget-setting name='displayUrl'>http://3.bp.blogspot.com/-lFr7cPjRwbc/YAeDTM_1c4I/AAAAAAAAUxQ/i_6Q17YKvCIQRUY-d5p-bqGz1HbAv0fJQCK4BGAYYCw/s1600/images%2Bq%253Dtbn%2Bad3.png</b:widget-setting>
+      <b:widget-setting name='displayHeight'>190</b:widget-setting>
+      <b:widget-setting name='sectionWidth'>241</b:widget-setting>
       <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
-      <b:widget-setting name='displayWidth'>355</b:widget-setting>
+      <b:widget-setting name='displayWidth'>365</b:widget-setting>
       <b:widget-setting name='link'>/</b:widget-setting>
       <b:widget-setting name='caption'>banner 3</b:widget-setting>
     </b:widget-settings>
@@ -1641,7 +1645,7 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 <div class='fourthing'>
 <i aria-hidden='true' class='fa fa-rocket'/>
 <div class='ico-fourth'>
-<h5>Delivery Gratuito</h5>
+<h5 class='animate__animated animate__zoomIn'>Delivery Gratuito</h5>
 <p>Enviaremos delivery gratuito si su pedido excede &quot;-&quot;.</p>
 </div>
 </div>
@@ -1649,7 +1653,7 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 <div class='fourthing'>
 <i aria-hidden='true' class='fa fa-handshake-o'/>
   <div class='ico-fourth'>
-<h5>Compromiso</h5>
+<h5 class='animate__animated animate__zoomIn'>Compromiso</h5>
 <p>Compromiso de entrega en tiempo y forma.</p>
 </div>
 </div> 
@@ -1657,7 +1661,7 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 <div class='fourthing'>
   <i aria-hidden='true' class='fa fa-credit-card'/>
 <div class='ico-fourth'>
-<h5>Pago Seguro </h5>
+<h5 class='animate__animated animate__zoomIn'>Pago Seguro </h5>
 <p>Medios de pagos seguros o cobro en destino.</p>
 </div>
 </div>
@@ -1665,7 +1669,7 @@ Bienvenido a la Tienda virtual de la Empanaderia !
 <div class='fourthing'>
   <i aria-hidden='true' class='fa fa-comments'/>
 <div class='ico-fourth'>
-<h5>Atencion 24/7</h5>
+<h5 class='animate__animated animate__zoomIn'>Atencion 24/7</h5>
   <p>Estamos atendiendo pedidos 24/7 para entregas de fin de semana.</p>
 </div>
 </div>
